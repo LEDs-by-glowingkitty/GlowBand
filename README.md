@@ -3,11 +3,9 @@
 Build your own LED arm bands for dancing. Controllable via iOS &amp; Android apps. No programming required.
 
 Want to support the development financially? Donations are always welcomed! 
-[Click here to donate on Liberapay](https://liberapay.com/marcoEDU)
+<a href="https://liberapay.com/marcoEDU/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
-[<img src="http://img.shields.io/liberapay/receives/marcoEDU.svg?logo=liberapay">](https://liberapay.com/marcoEDU)
-
-[Click here](#photos) to see photos of the glowing wristbands.
+[Click here](#photos) to see photos of the bike.
 
 ## Features
 
