@@ -1,9 +1,10 @@
-![The Glowing Arms Project](/headerimage.jpg "The Glowing Arms Project")
+![The Glowing Arms Project](images/headerimage.jpg "The Glowing Arms Project")
 
 Build your own LED arm bands for dancing. Controllable via iOS &amp; Android apps. No programming required.
 
-Want to support the development financially? Donations are always welcomed! 
-<a href="https://liberapay.com/marcoEDU/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+Want to support the development and stay updated?
+
+<a href="https://www.patreon.com/bePatron?u=24983231"><img alt="Become a Patreon" src="images/patreon_button.svg"></a> <a href="https://liberapay.com/marcoEDU/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 [Click here](#photos) to see photos of the bike.
 
@@ -35,7 +36,7 @@ Want to support the development financially? Donations are always welcomed!
 ## How to build your glowing LED wristbands
 
 ### Electronics overview
-![Photo](/diagram.jpg "Photo")
+![Photo](/images/diagram.jpg "Photo")
 
 ### Hardware
 
