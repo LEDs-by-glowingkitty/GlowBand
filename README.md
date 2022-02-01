@@ -1,6 +1,6 @@
 ![The Glowing Arms Project](images/headerimage.jpg "The Glowing Arms Project")
 
-Build your own LED wristbands for dancing. Controllable via iOS &amp; Android apps. No coding required.
+Build your own LED wristbands for dancing. Controllable via iOS &amp; Android apps. No coding is required.
 
 Want to support the development and stay updated?
 
