@@ -4281,7 +4281,7 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid cc581d9e-e3a8-47b0-8658-5b6a69dfc531)
   )
-  (text "Multi cell battery management:\n\nMM3474F05VBE for controlling all batteries + MM3474 for each cell?\n	"
+  (text "Multi cell battery management:\n\nMM3474F05VBE for controlling all batteries + MM3474 for each cell?\n\nor BQ7791504PW for each cell instead?"
     (at 95.25 400.05 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d75ab039-82ff-4f6a-baec-a14612390a05)
@@ -7694,9 +7694,9 @@
     (pin "B6" (uuid b67d480f-4832-4f90-8339-1d66d919b09e))
     (pin "B7" (uuid a31fa726-e3e3-47b8-b790-b5d94202beef))
     (pin "B8" (uuid 00b6df73-6814-4057-a87b-3094b0240616))
-    (pin "SHELL" (uuid 63e10676-8d8a-4d22-a402-e6ccc4776abf))
-    (pin "SHELL" (uuid 7ce11b64-c960-4487-9860-3e2b3a314523))
-    (pin "SHELL" (uuid 16820ce4-1a4a-402e-87e2-b77cffe928c1))
+    (pin "SHELL" (uuid efb17900-0428-45e0-b4c4-067a8cc697a5))
+    (pin "SHELL" (uuid efb17900-0428-45e0-b4c4-067a8cc697a5))
+    (pin "SHELL" (uuid efb17900-0428-45e0-b4c4-067a8cc697a5))
     (pin "SHELL" (uuid efb17900-0428-45e0-b4c4-067a8cc697a5))
   )
 
