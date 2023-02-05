@@ -35,7 +35,7 @@
         "pads": {
           "drill": 0.0,
           "height": 3.5,
-          "width": 2.0
+          "width": 1.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -384,7 +384,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "GlowBand PCB.step",
+      "step": "GlowBand PCB_small.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

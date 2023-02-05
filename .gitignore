@@ -34,3 +34,7 @@ fp-info-cache
 *.dxf
 
 *.mp4
+*.gcode
+*.3mf
+*.step
+.gitignore
